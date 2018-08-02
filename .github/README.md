@@ -1,5 +1,10 @@
 # .github/README.md
-A custom Jekyll theme
+To edit this README.md open it from .github folder.
+
+
+
+# A custom Jekyll theme
+
 
 
 # Setup Jekyll for your repository
