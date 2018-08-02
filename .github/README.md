@@ -1,4 +1,4 @@
-# jekyll-theme-custom
+# .github/jekyll-theme-custom
 A custom Jekyll theme
 
 
