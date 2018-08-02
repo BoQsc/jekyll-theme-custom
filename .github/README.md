@@ -1,4 +1,4 @@
-# .github/jekyll-theme-custom
+# .github/README.md
 A custom Jekyll theme
 
 
