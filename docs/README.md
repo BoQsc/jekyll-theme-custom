@@ -1,1 +1,1 @@
-# Jekyll folder
+# Jekyll static pages location
