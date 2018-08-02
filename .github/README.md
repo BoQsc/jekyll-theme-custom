@@ -3,7 +3,7 @@ To edit this README.md open it from .github folder.
 
 
 
-# A custom Jekyll theme
+## A custom Jekyll theme
 
 
 
