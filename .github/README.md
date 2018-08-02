@@ -16,6 +16,6 @@ Please go to the [Repository Settings](../../../settings#options_bucket) and swi
 You might aswell want to change **Domain name**: 
 * [Your Github pages Custom domain field](../../../settings#pages-cname-field)
 
-Remember to write in your wiki: [My Awesome Wiki](../../../wiki)
+Remember to write public sidenotes in your wiki: [My Awesome Wiki](../../../wiki)
 
 
