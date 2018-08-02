@@ -1,1 +1,2 @@
-testing2
+# jekyll-theme-custom
+A custom Jekyll theme
