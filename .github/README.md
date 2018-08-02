@@ -5,7 +5,6 @@ Please go to the Repository Settings and switch
 [My Awesome Wiki](../../../settings#options_bucket)
 [My Awesome Wiki](../../../settings#pages-cname-field)
 
+Remember to write in your wiki: [My Awesome Wiki](../../wiki)
 
-https://github.com/BoQsc/jekyll-theme-custom/settings#pages-cname-field
 
-https://github.com/BoQsc/jekyll-theme-custom/settings#options_bucket
